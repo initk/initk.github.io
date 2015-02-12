@@ -103,7 +103,7 @@ a:hover {
 }
 #header {
   text-shadow: 0 0 1px #fff;
-  margin: 50px auto;
+  margin: 10px auto;
 }
 @media screen and (max-width: 992px) {
   #header {
@@ -324,7 +324,7 @@ a:hover {
 #page-heading-wrap {
   text-align: left;
   line-height: 1.4em;
-  padding: 35px 0;
+  padding: 10px 0;
   background: #f9f9f9;
   border-top: 1px solid #eee;
   border-bottom: 1px solid #eee;
